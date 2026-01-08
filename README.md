@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/a841ac8b-d8d3-484e-a55b-76195cd7a646
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - [ ] Clipboard (Copy / Cut / Paste)
 - [ ] Undo / Redo command stack
 - [ ] Scrolling optimization
